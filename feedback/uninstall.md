@@ -1,3 +1,7 @@
+---
+title: Telly has been uninstalled
+---
+
 <script>
   mixpanel.track("app:uninstallPage")
 </script>
