@@ -10,7 +10,7 @@ title: Telly has been uninstalled.
 
 # Sad to see you go!
 
-If you have a minute, it'd be great if you could let us know why, so we can improve Telly to make the next person happier. :-)
+If you have a minute, it'd be great if you could let us know why, so we can improve Telly and make the next person happier. :-)
 
 
 [Open Telly Feedback form](https://goo.gl/forms/r2QFTsZv32X78LVU2)
